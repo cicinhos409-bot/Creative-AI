@@ -1,0 +1,5 @@
+{
+  "name": "Creative Studio AI",
+  "description": "A multimodal AI playground for generating images, text, audio, and video using Pollinations AI.",
+  "requestFramePermissions": []
+}
